@@ -1,0 +1,2 @@
+=================================== Precision Log (Wed Jun 21 16:10:31 2023) ===================================
+Patch size 13, weight decay 0, learning rate 0.0005, the best epoch 490, OA 90.62, AA 91.76, Kappa 0.8983, run time 1272.69
