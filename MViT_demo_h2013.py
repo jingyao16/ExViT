@@ -350,7 +350,7 @@ if args.Flag_test == 'test':
     
     print("=================================== Testing ===================================")
 
-    PATH = './log/HS-LiDAR Houston2013/13/Houston470_90.31.pt'
+    PATH = './log/HS-LiDAR Houston2013/13/Houston490.pt'
 
     model.load_state_dict(torch.load(PATH))      
 
