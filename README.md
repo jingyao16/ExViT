@@ -6,7 +6,11 @@
 
 A joint work with [Danfeng Hong](https://github.com/danfenghong).
 
-Users can manually download the investigated Houston 2013 datasets on https://pan.baidu.com/s/1bBQXAWam2GOwZN9obtCrfQ?pwd=rwu5 using key: rwu5.
+Users can manually download the investigated Houston 2013 datasets through:
+
+Baidu Cloud Disk: https://pan.baidu.com/s/1bBQXAWam2GOwZN9obtCrfQ?pwd=rwu5 using key: rwu5.
+
+Google Drive: https://drive.google.com/drive/folders/1JgFiIQdhu6LZRawUxv2AMqebnZ4SAY0O?usp=drive_link
 
 Citation
 ---------------------
